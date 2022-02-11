@@ -4,7 +4,7 @@ Sou estudante do segundo ano de Análise e Desenvolvimento de Sistemas e estou m
 
 **Estudando**: 
 
-&nbsp;![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+&nbsp;![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 **Stack** 
 
