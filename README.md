@@ -2,9 +2,9 @@
 
 Sou estudante do segundo ano de Análise e Desenvolvimento de Sistemas e estou me especializando em desenvolvimento de front-end com foco em experiência do usuário. ✨
 
-**Estudando**: 
+**Estudando** 
 
-&nbsp;![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+&nbsp;![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Stack** 
 
