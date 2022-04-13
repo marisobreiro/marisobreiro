@@ -4,7 +4,7 @@ Sou estudante do último ano de Análise e Desenvolvimento de Sistemas e estou m
 
 **Estudando** 
 
-&nbsp;![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+&nbsp;![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Stack** 
 ###### Linguagens
