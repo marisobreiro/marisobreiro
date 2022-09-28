@@ -1,6 +1,8 @@
 ### Olá, me chamo Mariana! 👋
 
-Sou estudante do último ano de Análise e Desenvolvimento de Sistemas e estou me especializando em desenvolvimento de front-end com foco em experiência do usuário. ✨
+Sou estudante do último ano de Análise e Desenvolvimento de Sistemas e estou me especializando em desenvolvimento de front-end com foco em experiência do usuário ✨. 
+
+Atualmente trabalho como Mobile Front End  no Paraná Banco.
 
 **Estudando** 
 
