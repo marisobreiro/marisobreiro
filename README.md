@@ -3,8 +3,8 @@
 Sou estudante do último ano de Análise e Desenvolvimento de Sistemas e estou me especializando em desenvolvimento de front-end mobile com foco em experiência do usuário ✨. 
 
 **Work**
-💼 Mobile Frontend Intern - React Native
-Paraná Banco
+
+💼 Mobile Frontend Intern - React Native at Paraná Banco
 
 **Estudando** 
 
