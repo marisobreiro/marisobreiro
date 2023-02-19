@@ -1,56 +1,8 @@
-### Olá, me chamo Mariana! 👋
+### Hi, I'm Mari!
 
-Sou estudante do último ano de Análise e Desenvolvimento de Sistemas e estou me especializando em desenvolvimento de front-end mobile com foco em experiência do usuário ✨. 
+💼 Mobile FrontEnd Intern at Paraná Banco
 
-**Work**
+📚 React Query and React Final Form
 
-💼 Mobile Frontend Intern - React Native at Paraná Banco
-
-**Estudando** 
-
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-
-
-**Stack** 
-
-##### Linguagens e frameworks
-
-![ReactNative](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-##### Databases
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-##### Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
-##### IDEs
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) 
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
- 
-##### Design e Prototipagem
-
-&nbsp;![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-##### Project Management
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+###### Stack
+<img src="https://user-images.githubusercontent.com/91204232/219955954-df731559-1173-45a2-bfe1-69d8868b1c72.png" width="34" height="30" /> <img src="https://user-images.githubusercontent.com/91204232/219956455-3d3dc877-7bdd-4214-a012-a949a71a0737.png" width="30" height="30" /> <img src="https://user-images.githubusercontent.com/91204232/219956552-dd57b6db-88fd-4988-b9a5-4eed6d6d7e4f.png" width="30" height="30" /> <img src="https://user-images.githubusercontent.com/91204232/219956120-78c2e1b1-39a2-408c-b76c-909914414721.png" width="32" height="30" /> <img src="https://user-images.githubusercontent.com/91204232/219956194-0b1d3f7f-f3d3-498b-8d80-d60c5a36ac68.png" width="30" height="30" /> <img src="https://user-images.githubusercontent.com/91204232/219956242-9f63f792-05ed-4200-b0ba-77317c27d2a6.png" width="30" height="30" /> <img src="https://user-images.githubusercontent.com/91204232/219956606-fb8ec3c4-7d88-48e6-96ab-a1541a336a69.png"  width="35" height="30" /> <img src="https://user-images.githubusercontent.com/91204232/219956345-c4f44844-c78c-4cb6-8130-d77dda46cb49.png" width="30" height="32" /> <img src="https://user-images.githubusercontent.com/91204232/219956410-70fb3ba9-f9ef-4bbe-9854-4ea84149469a.png" width="30" height="32" /> <img src="https://user-images.githubusercontent.com/91204232/219956743-7e629423-2f62-469a-9b8d-9aaea86ee698.png" width="20" height="30" /> <img src="https://user-images.githubusercontent.com/91204232/219956841-e944ba60-5313-4e8c-a9f6-eb34ba009e19.png" width="30" height="30" /> <img src="https://user-images.githubusercontent.com/91204232/219956917-b0144c5c-c396-4490-8ccc-036c5cc87ff0.png" width="32" height="30" /> <img src="https://user-images.githubusercontent.com/91204232/219956978-af1b1226-b9a4-485e-ad3e-47917b6d443a.png" width="30" height="30" /> <img src="https://user-images.githubusercontent.com/91204232/219957025-7cebd42d-8110-4d38-94ea-826db5994af8.png" width="30" height="30" /> <img src="https://user-images.githubusercontent.com/91204232/219957070-b26e0d6a-f345-46e4-8375-67c8349ec41b.png" width="30" height="30" /> <img src="https://user-images.githubusercontent.com/91204232/219957122-5869fa05-7810-4c8c-9d16-c7703dc4b40a.png" width="30" height="30" /> <img src="https://user-images.githubusercontent.com/91204232/219957198-d57b323a-162e-4ae5-a324-4d4e11271ea3.png"  width="35" height="40" /> <img src="https://user-images.githubusercontent.com/91204232/219957257-60133807-bd1b-4432-9660-0aaccb5d0a66.png" width="30" height="30" /> <img src="https://user-images.githubusercontent.com/91204232/219957324-c6790938-edcc-4f7b-a0b1-06cac8eb08cf.png" width="30" height="30" /> <img src="https://user-images.githubusercontent.com/91204232/219960767-17e6aaba-1250-4234-b7bb-d9a0191a07db.png" width="20" height="28" />
