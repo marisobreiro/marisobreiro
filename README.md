@@ -1,6 +1,6 @@
 ### Hi, I'm Mari!
 
-💼 Mobile FrontEnd Intern at Paraná Banco
+💼 Mobile FrontEnd at Paraná Banco
 
 📚 React Query and React Final Form
 
