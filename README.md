@@ -4,3 +4,4 @@ Mobile Developer specialized in React Native, currently working at Paraná Banco
 
 💼 Mobile Developer at Paraná Banco
 
+`React Native` | `Expo` | `React.js` | `Next.js` | `Tailwind` | `Styled-components` | `React Query` | `Zustand` | `ContextAPI`
